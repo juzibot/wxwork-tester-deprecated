@@ -4,6 +4,12 @@ We have launched a new puppet `wechaty-puppet-wxwork`. It is ready for testing.
 
 Unlike the previous puppet version, wechaty-puppet-wxwork is a **WeChat Work solution**.
 
+Get Token: 
+- [Register](https://qiwei.juzibot.com/user/login?isWechaty=true)
+- [Buy Token](https://qiwei.juzibot.com/corpPremium/wechaty)
+
+We provider WeChat Work Solution for free if you buy wxwork token!
+
 ## Run
 
 ### Install

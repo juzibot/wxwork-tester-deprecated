@@ -11,8 +11,6 @@
 
 ### Install
 
-> Only need to install wechaty
-
 ```
 npm install wechaty
 ```

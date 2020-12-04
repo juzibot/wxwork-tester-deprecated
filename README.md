@@ -1,14 +1,11 @@
 # wxwork-tester
 
-We have launched a new puppet `wechaty-puppet-wxwork`. It is ready for testing.
+`wechaty-puppet-wxwork` 已正式发布！ 这个 puppet 是一个企业微信而非个人微信的puppet，通过下面方式可以获得token：
+ 
+1. [注册](https://qiwei.juzibot.com/user/login?isWechaty=true)
+2. [购买](https://qiwei.juzibot.com/corpPremium/wechaty)
 
-Unlike the previous puppet version, wechaty-puppet-wxwork is a **WeChat Work solution**.
-
-Get Token: 
-- [Register](https://qiwei.juzibot.com/user/login?isWechaty=true)
-- [Buy Token](https://qiwei.juzibot.com/corpPremium/wechaty)
-
-We provider WeChat Work Solution for free if you buy wxwork token!
+提示：购买链接在页面最下方，购买企微token，我们免费赠送为期一年的句客宝的SCRM功能！
 
 ## Run
 

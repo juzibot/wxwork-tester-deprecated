@@ -17,6 +17,8 @@
 npm install wechaty
 ```
 
+> 如果使用的是wechaty@1.x版本，需要增加环境变量配置: WECHATY_PUPPET_SERVICE_NO_TLS_INSECURE_CLIENT=true
+
 ### Example
 ```ts
 import { Wechaty } from 'wechaty'

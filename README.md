@@ -2,8 +2,8 @@
 
 `wechaty-puppet-wxwork` 已正式发布！ 这个 puppet 是一个企业微信而非个人微信的puppet，通过6行代码，你就可以运行你的企微机器人！ 通过下面方式可以获得token：
  
-1. [注册](https://qiwei.juzibot.com/user/login?isWechaty=true)
-2. [购买](https://qiwei.juzibot.com/user/login?isWechaty=true)
+1. [注册](https://miaohui.juzibot.com/auth/register)
+2. [购买](https://work.weixin.qq.com/kfid/kfcbfceaec6e8e30afe)
 
 联系微信：juzibot
 

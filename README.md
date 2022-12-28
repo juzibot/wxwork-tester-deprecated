@@ -1,3 +1,7 @@
+# 最新消息
+
+ [WorkPro](https://wechaty.js.org/2022/12/23/introducing-workpro-puppet/) 作为 WxWork 的继任者已经正式上线了！WxWork 现已废弃，请尽快转移到 WorkPro 上。
+
 # wxwork-tester
 
 `wechaty-puppet-wxwork` 已正式发布！ 这个 puppet 是一个企业微信而非个人微信的puppet，通过6行代码，你就可以运行你的企微机器人！ 通过下面方式可以获得token：
